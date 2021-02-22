@@ -38,6 +38,15 @@ li {
   padding-right: 20px;
 
 }
+.class {
+  /* background-color: #2d3436; */
+  font-style: #2d3436
+  /* height: 100px;
+  font-size: 1.5rem;
+  width: auto;
+  margin-left: 20px;
+  padding-right: 20px; */
+}
 
 ul.top_menu {
   float: left;
